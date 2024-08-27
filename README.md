@@ -1,5 +1,7 @@
 ## SwiftUI-Biostats-Sim
 
+![Preview of Playground](https://i.ibb.co/XZCkK4C/Swift-UI-Biostats-Sim.png)
+
 **Features**
 
 * Interactive Sliders: Adjust sensitivity, specificity, prevalence, and population size to see how they impact the outcomes of the simulated test.
